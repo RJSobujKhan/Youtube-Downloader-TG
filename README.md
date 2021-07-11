@@ -19,7 +19,7 @@
     
 </p>
 
-#     Avaiilable on Telegram as [@Ytdl22bot](https://t.me/Ytdl22bot)
+#     Avaiilable on Telegram as [@MyYouTubeDownloadersBot](https://t.me/MyYouTubeDownloadersBot)
 
 # How to  Deploy 
 Complete guide on deploying @Ytdl22bot's clone on Heroku.
@@ -31,7 +31,7 @@ Complete guide on deploying @Ytdl22bot's clone on Heroku.
 
 
 # ❤️ Support ❤️
-<a href="https://t.me/danumabots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/PremiumAppsAndModAppsFreeChannel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 
 > This project exists thanks to these awesome developers and their codes and contributions.
